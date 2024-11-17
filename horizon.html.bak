@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>PMT</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href="incdtim-logo.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="keywords" Content="write keywords here"/>
+</head>
+<!-- ############################################################## -->
+<body>
+<div id="wrapper">
+ 
+  <div id="banner">
+    <table>
+	  <tr>
+	    <td><img src="banner/incdtim-logo.jpg" height="80px" width="auto"></td>
+		<td><img src="banner/horizon-logo.png" height="80px" width="auto"></td>
+		<td><img src="banner/ec-logo.jpg" height="80px" width="auto"></td>
+	  </tr>
+	</table>
+  </div>
+  
+  <div id="header">
+	<center><h1>HORIZON Europe</h1></center>
+  </div>
+ 
+  <div id="mainmenu">
+    <ul>
+      <LI><a href="index.html">Home - PMT</a></li>
+	  <li><a href="horizon.html">HORIZON EUROPE programme</a></li>
+	  <li><a href="strategies.html">Strategies and policies</a></li>
+	  <li><a href="proposal.html">Proposal writing</a></li>
+	  <li><a href="pmt-resources.html">PMT resources</a></li
+
+
+	</ul>
+  </div>
+
+  <div id="content">
+  
+      <div id="content-box">
+	    <h2>General Horizon issues, rules, budget</h2>
+		
+		<ul>
+		  <li><a href="https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/agr-contr/unit-mga_he_v1.1_en.pdf" target="_blank">Model Grant Agreement</a></li>
+		  <li><a href="https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2023-2024/wp-13-general-annexes_horizon-2023-2024_en.pdf" target="_blank">General Annexes</a></li>
+		  <li><a href="https://www.youtube.com/watch?v=Xqab-CQ6yno" target="_blank">HE Budget commentary <i>Youtube webinar</i></a></li>
+		</ul>
+		
+		<p>The issues listed here apply to all actions within the HORIZON 
+		EUROPE programme. The PMT can help with specific issues regarding 
+		particular calls.</p>
+    </div>
+	
+	<div id="content-box">
+	  <h2>Widening calls<h2>
+	  
+	  <ul>
+	    <li><a href="https://horizoneuropencpportal.eu/sites/default/files/2023-02/01leaflet_how-to-apply-for-widening-calls.pdf" target="_blank">WIDERA brochure (pdf)</a></li>
+		<li><a href="https://www.youtube.com/watch?v=Prp3pghlpD0&t=7270s" target="_blank">WIDERA 2023-2025 <i>Youtube webinar</i></a></li>
+		<li><a href="https://www.youtube.com/watch?v=wdK-P91UtSo&t=36s" target="_blank">WIDERA 2023-2024 <i>Youtube webinar</i></a></li>
+		<li><a href="https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-widera-2023-access-06?order=DESC&pageNumber=1&pageSize=50&sortBy=startDate&isExactMatch=true&frameworkProgramme=43108390" target="_blank">HOP-ON facility <i>website</i></a></li>
+	  </ul>
+	  
+	  <p>>Actions intended for facilitating access to Horizon participation to 
+	countries with below average research output. The specific aims and 
+	facilities under Widening actions are being revised by EC every few years.</p>
+	</div>
+	
+	
+	<div id="content-box">
+	  <h2>Pillar 1: MSCA and ERC grants for individual researchers</h2>
+	  
+	  <ul>
+	    <a href="https://www.youtube.com/watch?v=bPuPZv_z2Vs" target="_blank">MSCA info day <i>Youtube webinar</i></a></li>
+		<li><a href="https://rea.ec.europa.eu/news/your-guide-marie-sklodowska-curie-actions-applying-managing-your-project-2024-07-09_en" target="_blank">MSCA project types summary</a></li>
+	  </ul>
+	  
+	  <p>Grants refering to individual excellence researchers for mobility
+	  within well-equiped and staffed institutions within consortia.</p>
+    </div>
+	
+	<div id="content-box">
+	  <h2>Material for Coordinators</h2>
+	  
+	    <ul>
+		  <li><a hre="https://www.youtube.com/watch?v=xpVk77AP5tY" target="_blank">GA amendment; payments and reporting; MIM<i>Y. web.</i></a></li>
+		  <li><a href="https://www.youtube.com/watch?v=_9FV3Q6OgMg" target="_blank">Info day for NCPs <i>Youtube webinar</i></a></li>
+		</ul>
+	  
+	  <p>Here are more detailed information for Horizon project coordinators. 
+	  Other beneficiaries and participants are not directly concerned, but they 
+	  should nevertheless know about these issues.</p>
+	</div>
+	
+	<div id="content-box">
+	  <h2>Implementation days webinars</h2>
+	    <ul>
+		  <li><a href="https://ec.europa.eu/research/participants/docs/h2020-funding-guide/other/event240926.htm" target="+blank">26. Sep 2024 - Funding opportunities</a></li>
+		  <li><a href="https://ec.europa.eu/research/participants/docs/h2020-funding-guide/other/event241016.htm" target="_blank">16. Oct 2024 - Grant Agreement preparation</a></li>
+		  <li><a href="https://ec.europa.eu/research/participants/docs/h2020-funding-guide/other/event241105.htm" target="_blank">5. Nov 2024 - Grant management</a></li>
+		</ul>
+	  <p>Implementation days were earlier done all in one Info Day, however, 
+	  recently EC decided to expand the information a bit and hold 3 separate 
+	  sessions annually.</p>
+	  
+	</div>
+	
+	
+	
+	<br>
+	
+	<h3>Slides from EC webinars</h3>
+      <a href="images/he-missions.png"><img src="images/he-missions.png" class="img-content"></a>
+	  <a href="images/maximum-funding-rates.png"><img src="images/maximum-funding-rates.png" class="img-content"></a>
+	<div>
+	</div>
+	
+
+	
+
+ </div> <!--Content close-->
+ <div id="footer"> 
+  <table>
+     <tr>
+	   <td><b>Site manager</b></td>
+	   <td><b>Team</b></td>
+	   <td><b>Team mail</b></td>
+	 </tr>
+	 <tr>
+	   <td>Fran Nekvapil</td>
+	   <td>Codruta Varodi<br>Sorina Garabagiu<br>Fran Nekvapil</td>
+	   <td>euprojects@itim-cj.ro</td>
+	 </tr>
+   </table>
+<br><br>
+</div> <!--Footer close-->
+</div> <!--Wrapper close-->
+</body>
+</html>
