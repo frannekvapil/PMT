@@ -93,7 +93,7 @@ line-height : 1.8em;
 }
 
 #content-box {
-width : 45%;
+width : 450px;
 margin : 20px;
 diplay : inline-block;
 float : left;
